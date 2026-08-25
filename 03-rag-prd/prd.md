@@ -1,33 +1,18 @@
-# AI PRD · Juno
+## Diagnostic Diff · Juno RAG Lab
 
-> Module 3 · RAG / AI PRD. The AI product requirements doc with retrieval requirements, built with the **M3 · AI PRD Builder** (RAG design from the **M3 · RAG Architecture Decider**). Paste the tool's markdown over this file.
+_Working notes from Module 3 Lab 1. Do not paste over `03-rag-prd/prd.md`. That file comes from the AI PRD Builder._
 
-## Problem & user
+**Lovable prototype:** https://rocketship-prds.lovable.app
 
-_The user problem and who has it._
+### Before - Quality Mode (no strategy)
 
-_____
+Avoids failing on non-fidelity issues that are less important to the customer.
 
-## Solution overview
+### After - Strategy Mode (with RocketShip Strategy One-Pager)
 
-_What Juno does, at a glance._
+Ensures the team's velocity is not impacted.
 
-_____
+### Takeaway
 
-## Retrieval requirements (RAG)
+> The system now incorporates the latest strategy with decision making
 
-- **Sources:** _what Juno retrieves from._
-- **Chunking / indexing:** _strategy + why._
-- **Grounding rule:** _e.g. no answer without a cited source._
-- **Freshness:** _how current the data must be._
-
-## Requirements
-
-| # | Requirement | Priority | Acceptance criteria |
-|---|---|---|---|
-| 1 | _…_ | Must | _…_ |
-| 2 | _…_ | Should | _…_ |
-
-## Out of scope
-
-_____
