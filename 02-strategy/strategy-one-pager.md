@@ -1,27 +1,25 @@
-# AI Strategy One-Pager · Juno
+# AI Strategy One-Pager - Juno Automated Prioritization
 
-> Module 2 · Strategy. Built with the **M2 · AI Strategy One-Pager Builder** (informed by the Three-Layer Model Mapper). Paste the tool's markdown over this file.
+## 1. Problem & Workflow
 
-## The bet
+Juno calls out interrelated/specific to an area to keep the engineering or sales team from calling out individual pet peeves. 
 
-_The one-sentence strategic bet._
+## 2. Target Metrics
 
-_____
+Cycle time on tickets.
 
-## Three-layer model
+## 3. Autonomy Level
 
-- **Model layer:** _which model(s), and why._
-- **Data / retrieval layer:** _what proprietary data or context creates advantage._
-- **Product layer:** _the experience users actually pay for._
+Assist - I want the team to be aware of the patterns, rather than Juno giving them trends. 
 
-## Why now
+## 4. Data & Model Approach
 
-_Market timing + why this is defensible._
+Ground (RAG) - we need to know where the issues are occurring for customers so we can fix the development issue rather than 
 
-_____
+## 5. Risks & Mitigations
 
-## Success metric
+We don't want to rely too heavily on this tool. While tickets may increase in a specific area, the priority may not align with the number of tickets.
 
-_The single number that says the bet paid off._
+## 6. V1 Scope
 
-_____
+The tool will group tickets based on area, but will leave the prioritization to the product team. 
